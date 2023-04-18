@@ -31,3 +31,6 @@
 
 ## Задача 10.   
 ![image](https://user-images.githubusercontent.com/113675674/232742662-af7e3939-6379-47eb-8914-cc177a2ea4fd.png)   
+
+## Задача 11.   
+![image](https://user-images.githubusercontent.com/113675674/232747205-f68a9210-d150-4e9e-96e5-ef79d44bf0d1.png)  
